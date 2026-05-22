@@ -1,3 +1,4 @@
-# mathematical-methods 
+# mathematical-methods
 
-Mathematical Structures and techniques underlying physical theory
+Mathematical Structures and techniques underlying physical theory.
+
